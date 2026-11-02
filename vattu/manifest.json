@@ -1,0 +1,26 @@
+{
+    "v":  1,
+    "at":  1793637625040,
+    "src":  1793189227411,
+    "sig":  "2026 DANH SÁCH VẬT TƯ MASTER CỦA PXNL (ĐTĐ+KN).xlsx|1793189227411|377010\n2026 DANH SÁCH VẬT TƯ MASTER CỦA PXNL (MT+MĐ).xlsx|1790864547366|367725\nPVPGB_BaoCaoVatTuTonKho.xlsx|1790841755127|322734",
+    "files":  [
+                  {
+                      "name":  "2026 DANH SÁCH VẬT TƯ MASTER CỦA PXNL (ĐTĐ+KN).xlsx",
+                      "bin":  "f0.bin",
+                      "mtime":  1793189227411,
+                      "size":  377010
+                  },
+                  {
+                      "name":  "2026 DANH SÁCH VẬT TƯ MASTER CỦA PXNL (MT+MĐ).xlsx",
+                      "bin":  "f1.bin",
+                      "mtime":  1790864547366,
+                      "size":  367725
+                  },
+                  {
+                      "name":  "PVPGB_BaoCaoVatTuTonKho.xlsx",
+                      "bin":  "f2.bin",
+                      "mtime":  1790841755127,
+                      "size":  322734
+                  }
+              ]
+}
