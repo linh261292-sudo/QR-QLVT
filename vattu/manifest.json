@@ -1,8 +1,8 @@
 {
     "v":  1,
-    "at":  1793917357104,
-    "src":  1793917228742,
-    "sig":  "2026 DANH SÁCH VẬT TƯ MASTER CỦA PXNL (ĐTĐ+KN).xlsx|1790839962000|377010\n2026 DANH SÁCH VẬT TƯ MASTER CỦA PXNL (MT+MĐ).xlsx|1790864547366|367725\n2026NL ABC_SH1_inventory.xlsx|1793917228742|142456\nPVPGB_BaoCaoVatTuTonKho.xlsx|1793915512706|413104",
+    "at":  1794330901751,
+    "src":  1794242711000,
+    "sig":  "2026 DANH SÁCH VẬT TƯ MASTER CỦA PXNL (ĐTĐ+KN).xlsx|1790839962000|377010\n2026 DANH SÁCH VẬT TƯ MASTER CỦA PXNL (MT+MĐ).xlsx|1790864547366|367725\n2026NL ABC_SH1_inventory.xlsx|1794242711000|142058\nPVPGB_BaoCaoVatTuTonKho.xlsx|1793915512706|413104",
     "files":  [
                   {
                       "name":  "2026 DANH SÁCH VẬT TƯ MASTER CỦA PXNL (ĐTĐ+KN).xlsx",
@@ -19,8 +19,8 @@
                   {
                       "name":  "2026NL ABC_SH1_inventory.xlsx",
                       "bin":  "f2.bin",
-                      "mtime":  1793917228742,
-                      "size":  142456
+                      "mtime":  1794242711000,
+                      "size":  142058
                   },
                   {
                       "name":  "PVPGB_BaoCaoVatTuTonKho.xlsx",
